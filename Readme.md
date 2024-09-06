@@ -1,6 +1,6 @@
 ## Project Title
 
-LittleLemon Webapp(Back-End Developer Capstone Project)
+LittleLemon Webapp (Back-End Developer Capstone Project)
 
 ## Introduction
 
