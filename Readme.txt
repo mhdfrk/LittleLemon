@@ -19,5 +19,5 @@ To test the API, you can use tools like Insomnia or Postman. Ensure that you obt
 
 ## Notes
 
-- Update this README file with any additional setup or configuration instructions as needed.
+Update this README file with any additional setup or configuration instructions as needed.
 
