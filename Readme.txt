@@ -6,12 +6,12 @@ LittleLemon Webapp(Back-End Developer Capstone Project)
 
 This project showcases the implementation of a backend API for a restaurant booking system. The API allows users to view menu items, make bookings, and manage user authentication. It's built using Django and Django REST framework, with JWT-based authentication for securing the API.
 
-## API Endpoints
+##API Endpoints
 
-- `/api/bookings/`: Retrieve, create, update, and delete bookings.
-- `/api/menu-items/`: Retrieve menu items.
-- `/api/token/login/`: Obtain JWT token for authentication.
-- `/api/token/refresh/`: Refresh JWT token.
+- '/api/bookings/': Retrieve, create, update, and delete bookings.
+- '/api/menu-items/': Retrieve menu items.
+- '/api/token/login/': Obtain JWT token for authentication.
+- '/api/token/refresh/': Refresh JWT token.
 
 ## Testing the API
 
